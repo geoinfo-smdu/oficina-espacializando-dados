@@ -1,4 +1,4 @@
-# Oficina de Espacilização de dados com Python e Geopandas
+# Oficina de Espacialização de dados com Python e Geopandas
 
 É possível levantar diversos argumentos sobre a necessidade de espacializar os dados, no entanto, se echegou até aqui, vamos considerar que já esteja ciente da importância disso. No entanto, muitos conjuntos de dados que trabalhamos no cotidiano tem relações geográficas e acabamos lidando com eles de forma tabular, como se fossem planilhas, sem utilizar o potencial das análises espaciais. 
 
